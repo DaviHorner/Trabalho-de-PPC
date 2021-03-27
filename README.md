@@ -27,6 +27,7 @@ O trabalho deverá ser realizado individualmente.
 
 ## Trabalho
 
+Para rodar o trabalho basta abrir o codigo no GoogleColab, ao rodar o código é necessário indicar o 'kaggle.json' para permitir o download direto do [dataset](https://www.kaggle.com/tongpython/cat-and-dog) depois disso é só esperar, caso esteja demorando muito é possivel mudar a quantidade de 'Epoch = 20' quantas vezes o dataset é analisado, mas tenha em mente que quanto menor o valor maior é a chance de entregar uma analise errada. 
 
 ## Referências
 
