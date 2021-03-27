@@ -24,3 +24,7 @@ Exemplos de ferramentas para gravar vídeo: extensões do Chrome (Loom, Screenca
 A avaliação será realizada da seguinte forma: 60% para código implementado e 40% para vídeo de apresentação.
 
 O trabalho deverá ser realizado individualmente.
+
+## Trabalho
+
+## Referências
