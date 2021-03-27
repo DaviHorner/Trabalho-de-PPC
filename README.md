@@ -30,4 +30,4 @@ O trabalho deverá ser realizado individualmente.
 
 ## Referências
 
-O meu trabalho foi feito usando como base o artigo do [Venkatesh Tata](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8) ou você pode olhar o código direto no [GitHub](https://github.com/venkateshtata/cnn_medium.) dele.
+O meu trabalho foi feito usando como base o artigo em inglês do [Venkatesh Tata](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8) ou você pode olhar o código direto no [GitHub](https://github.com/venkateshtata/cnn_medium.) dele.
