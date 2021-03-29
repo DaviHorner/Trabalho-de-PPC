@@ -27,7 +27,7 @@ O trabalho deverá ser realizado individualmente.
 
 ## Trabalho
 
-O meu trabalho é um CNN - Convolutional Neural Network (Rede Neural Convolucional), esse tipo de código usa Inteligencia Artificial para fazer análises de imagens, no caso desse trabalho é feito uma análise de uma séries de fotos de cachorros e gatos e tenta identificar corretamente as imagens e por fim apresenta a porcentagem de acertos da análise das pastas de teste.
+O meu trabalho é um CNN - Convolutional Neural Network (Rede Neural Convolucional), esse tipo de código usa Inteligencia Artificial para fazer análises de imagens, no caso desse trabalho é feito uma análise de uma séries de fotos de cachorros e gatos e tenta identificar corretamente as imagens e por fim apresenta a porcentagem de acertos da análise das pastas de teste,para fazer a paralelização foi criado 4 processos para acelerar o processo de treinamento e teste.
 
 Para rodar o trabalho basta abrir o codigo no GoogleColab, e para rodar o código o atalho é  ```Ctrl+F9```, ao rodar o código é necessário indicar o arquivo ```kaggle.json``` da API do Kaggle para permitir o download direto do [dataset](https://www.kaggle.com/tongpython/cat-and-dog) depois disso é só esperar, caso esteja demorando muito é possivel mudar o valor de quantas vezes o dataset é analisado, ```Epoch = 5``` para um valor menor, mas tenha em mente que quanto menor o valor maiores as chance de entregar uma análise errada. 
 
